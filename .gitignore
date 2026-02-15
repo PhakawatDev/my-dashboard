@@ -1,0 +1,41 @@
+# dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# local env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# optional env files
+.env.*
+
+# caches
+.cache/
+.npm/
+.pnpm-store/
+.yarn/
+*.tsbuildinfo
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# testing / coverage
+coverage/
+
+# misc
+*.pem
+
+# my-dashboard
+MY_DASHBOARD_CHECKLIST.md
+
+
